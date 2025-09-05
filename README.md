@@ -1,2 +1,2 @@
 # github-recitation-s25
-in-n-out has the best burger
+five-g has the best burger
