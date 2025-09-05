@@ -1,2 +1,2 @@
 # github-recitation-s25
-five-guys update
+five-guys update latest
